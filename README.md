@@ -12,17 +12,17 @@ A aplicação consiste em uma pesquisa de vendas realizadas, onde os dados são 
 
 ## Layout web
 
-![Página Home](https://github.com/rendleyarnou/projeto-sds3/assets/home-page.png)
+![Página Home](https://github.com/rendleyarnou/projeto-sds3/blob/develop/assets/home-page.png)
 
-![Página Dashboard](https://github.com/rendleyarnou/projeto-sds3/assets/dashboard-page.png)
+![Página Dashboard](https://github.com/rendleyarnou/projeto-sds3/blob/develop/assets/dashboard-page.png)
 
 ## Modelo conceitual
 
-![Modelo Conceitual](https://github.com/rendleyarnou/projeto-sds3/assets/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/rendleyarnou/projeto-sds3/blob/develop/assets/modelo-conceitual.png)
 
 ## Padrão camadas
 
-![Modelo Conceitual](https://github.com/rendleyarnou/projeto-sds3/assets/camadas.png)
+![Padrão Camadas](https://github.com/rendleyarnou/projeto-sds3/blob/develop/assets/camadas.png)
 
 # Tecnologias utilizadas
 
